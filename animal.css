@@ -1,0 +1,26 @@
+body {
+    font-size: 24px;
+    line-height: 32px;
+    background-color: lightblue;
+    font-family: courier;
+}
+
+h1 {
+    font-size: 32px;
+    font-height: 40px;
+    text-emphasis: bold;
+    text-align: center;
+    color: black;
+}
+
+p {
+    font-size: 12px;
+    font-height: 18px;
+    
+}
+
+#image {
+    border: 20px solid darkblue;
+    margin: 20px auto;
+    display: block;
+}
